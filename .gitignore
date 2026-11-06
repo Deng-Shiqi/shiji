@@ -1,0 +1,10 @@
+.DS_Store
+build/
+.openai/
+.env
+.env.*
+*.pem
+*.p12
+*.mobileprovision
+node_modules/
+__pycache__/
